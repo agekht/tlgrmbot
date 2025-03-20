@@ -1,2 +1,2 @@
-worker: python telegrampillbot.py
+worker: python bot.py
 
